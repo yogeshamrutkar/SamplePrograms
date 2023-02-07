@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation/roman.metadata.v5.2
+/.vs/ProjectEvaluation/roman.projects.v5.2
+/.vs/Roman/DesignTimeBuild/.dtbcache.v2
+/.vs/Roman/FileContentIndex/3fe2f786-73af-44ff-8f3f-abd16bb24f6e.vsidx
+/.vs/Roman/FileContentIndex/5a100453-6b92-4d25-ae88-c7d004b907b0.vsidx
+*.vsidx
+/.vs/Roman/FileContentIndex/a90ec35e-1ac1-43c8-aff7-f7ff0123257b.vsidx
+/.vs/Roman/v17/.futdcache.v2
+/.vs/Roman/v17/.suo
+/Roman/bin/Debug/net6.0/Roman.dll
+/Roman/bin/Debug/net6.0/Roman.pdb
+/Roman/obj/Debug/net6.0/Roman.dll
+/Roman/obj/Debug/net6.0/Roman.pdb
+/.vs/ProjectEvaluation/roman.metadata.v5.2
+/.vs/ProjectEvaluation/roman.projects.v5.2
+/.vs/Roman/DesignTimeBuild/.dtbcache.v2
+/.vs/Roman/v17/.futdcache.v2
+/.vs/Roman/v17/.suo
+/Roman/bin/Debug/net6.0/Roman.dll
+/Roman/bin/Debug/net6.0/Roman.pdb
+/Roman/obj/Debug/net6.0/Roman.dll
+/Roman/obj/Debug/net6.0/Roman.pdb

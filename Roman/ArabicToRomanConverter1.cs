@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace Roman
 {
-    // This is better one in terms of performance
+    // This is better approach in terms of performance
     // We can enhance for 4000, 5000 here
     internal class ArabicToRomanConverter1
     {
