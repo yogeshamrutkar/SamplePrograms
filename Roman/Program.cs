@@ -19,7 +19,7 @@ internal class Program
         while (isNumberInput && num > 0)
         {
             if (num == 0 || num > 3999) 
-                break;
+                break; 
 
             string romanResult = obj1.ConvertArabicToRoman(num);
             Console.WriteLine("Result1 without Loop => {0}", romanResult);
