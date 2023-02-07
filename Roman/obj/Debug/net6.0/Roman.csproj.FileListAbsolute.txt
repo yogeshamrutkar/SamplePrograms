@@ -1,0 +1,15 @@
+C:\Roman\Roman\bin\Debug\net6.0\Roman.exe
+C:\Roman\Roman\bin\Debug\net6.0\Roman.deps.json
+C:\Roman\Roman\bin\Debug\net6.0\Roman.runtimeconfig.json
+C:\Roman\Roman\bin\Debug\net6.0\Roman.dll
+C:\Roman\Roman\bin\Debug\net6.0\Roman.pdb
+C:\Roman\Roman\obj\Debug\net6.0\Roman.csproj.AssemblyReference.cache
+C:\Roman\Roman\obj\Debug\net6.0\Roman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Roman\Roman\obj\Debug\net6.0\Roman.AssemblyInfoInputs.cache
+C:\Roman\Roman\obj\Debug\net6.0\Roman.AssemblyInfo.cs
+C:\Roman\Roman\obj\Debug\net6.0\Roman.csproj.CoreCompileInputs.cache
+C:\Roman\Roman\obj\Debug\net6.0\Roman.dll
+C:\Roman\Roman\obj\Debug\net6.0\refint\Roman.dll
+C:\Roman\Roman\obj\Debug\net6.0\Roman.pdb
+C:\Roman\Roman\obj\Debug\net6.0\Roman.genruntimeconfig.cache
+C:\Roman\Roman\obj\Debug\net6.0\ref\Roman.dll
